@@ -4,3 +4,39 @@ img	{
 .icon{	
 	height: 30px; width: 40px;
 }
+header{
+	background: skyblue;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: green;
+}
+
+th,td {
+	border: 3px dashed red;
+}
+h2 {
+	color: blue;
+}
+footer	{
+	background: skyblue;
+}
+.Pharagrap1 {
+	width: 800px;
+	height: 250px;
+	background-color: blue;
+	border: 2px solid red;
+	border-top: 8px solid red;
+	padding-left: 100px;
+	margin-left: 300px;
+}
+body {
+	background: green;
+}
+li {
+	margin: 30px;
+	padding: 10px;
+}
